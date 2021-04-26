@@ -1,6 +1,9 @@
 # NHANES Dataset Exploration
 ## by Christopher Phillips
 
+## Part of Udacity Data Science Nanodegree
+
+## Related Blog Post can be found here: http://christopher-phillips.com/an-analytical-look-at-the-nhanes-diabetes-patients/
 
 ## Dataset
 
